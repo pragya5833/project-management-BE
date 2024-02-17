@@ -1,0 +1,8 @@
+partially Done:1) each api should do as it is named and not depend on user to mention
+2) value of one should be passed to another--check more on this
+DONE: 3) when receiving response another request can't be made.
+DONE: 4) page should show as loading.
+5) containerize backend
+6) s3 host FE
+7) api gateway create
+8) lambda function for backend
